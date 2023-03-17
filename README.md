@@ -1,6 +1,8 @@
 # blackhive
 A Simulation of Linux Honeypot System for Malicious User Detection.
 
+![Blackhive](blackhive.png)
+
 ## How it works:
 The system mimics a realistic Linux environment for the malicious entities to interact with.  
 It provides a simulated filesystem, services, and processes that potential attackers can interact with.  
