@@ -1,5 +1,11 @@
-# blackhive
-A Simulation of Linux Honeypot System for Malicious User Detection.
+<p align="center">
+  <img src="logo.jpg" width="230" height="230"> 
+</p>
+
+<h3 align="center">BLACKHIVE</h3>
+<p align="center">A Simulation of Linux Honeypot System for Malicious User Detection.</p>
+
+
 
 ![Blackhive](blackhive.png)
 
